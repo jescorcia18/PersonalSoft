@@ -1,0 +1,4 @@
+{
+  "email": "useradmin@insurance.com",
+  "password": "P@ssword"
+}
